@@ -12,9 +12,9 @@ const HomeElement = ({value}) => {
              <div className=''>
             <div className='card card-compact w-80 shadow-xl' style={{backgroundColor:cardBgColor ,color:textColor  }}>
             <figure><img className='w-80' src={picture}  alt="logo" /></figure>
-            <div className="card-body mx-2 my-5">
+            <div className="card-body  mx-2 my-5 ">
             <h2 className='p-3 rounded-lg w-24' style={{backgroundColor:categoryBgColor}}>{category}</h2>
-            <p className='mx-1 text-2xl' >{title}</p>
+            <p className='text-2xl text-start' >{title}</p>
             </div>
             </div>
         </div>
