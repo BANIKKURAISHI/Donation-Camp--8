@@ -18,11 +18,11 @@ const Navbar = () => {
            
           <div className=" text-3xl -mx-52">
           <NavLink
-             to=""
+             to="/"
               className={({ isActive, isPending ,}) =>
              isPending ? "pending" : isActive ? "text-red-500 underline mx-2" : "mx-2" }>Home</NavLink>
          <NavLink
-             to='/donation/:id'
+             to='/donation/'
              className={({ isActive, isPending }) =>
              isPending ? "pending" : isActive ? "text-red-500 underline mx-2" : "mx-2" }>Donation</NavLink>
          <NavLink

@@ -1,8 +1,13 @@
 
 const Statistics = () => {
+   
+
+   
     return (
-        <div>
-            <h1>this is statistics</h1>
+        <div className="max-w-5xl text-center mx-auto">
+            <h1>This is pie chart</h1>
+          
+
         </div>
     );
 };
