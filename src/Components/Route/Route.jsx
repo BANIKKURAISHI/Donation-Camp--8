@@ -14,6 +14,7 @@ import Statistics from "../../Page/Statistics";
 
 
 
+
 const myCreateRoute=createBrowserRouter([
     {
       path: "/",
@@ -22,13 +23,10 @@ const myCreateRoute=createBrowserRouter([
       children:
 
       [
-      
-
-
       {
-               path:'/',
-               element:<Home></Home>,
-               loader:()=>fetch('/Data.json/'),
+       path:'/',
+       element:<Home></Home>,
+       loader:()=>fetch('/Data.json/'),
       },
 
       {

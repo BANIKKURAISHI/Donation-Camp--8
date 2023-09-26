@@ -3,6 +3,9 @@ import { Link } from 'react-router-dom';
 const HomeElement = ({value}) => {
     const {picture,title,category,categoryBgColor,textColor,cardBgColor,id}=value
     return (
+   
+
+
         <Link to={`/donation/${id}`}>
             <button>
             
@@ -17,7 +20,7 @@ const HomeElement = ({value}) => {
         </div>
         </button>
         </Link>
-       
+      
     );
 };
 

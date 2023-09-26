@@ -8,7 +8,7 @@ const Background = () => {
         opacity:.10}
     return (
         <div>
-            <div style={Img} className="bg-White absolute w-full p-6 bg-black ">
+            <div style={Img} className="bg-White w-full p-6 mx-auto ">
             </div>
         </div>
     );
