@@ -1,8 +1,12 @@
 import PropTypes from 'prop-types';
+import { Link } from 'react-router-dom';
 const HomeElement = ({value}) => {
-    const {picture,title,category,categoryBgColor,textColor,cardBgColor}=value
+    const {picture,title,category,categoryBgColor,textColor,cardBgColor,id}=value
     return (
-        <div >
+        <Link to={`/donation/${id}`}>
+            <button>
+            
+             <div className=''>
             <div className='card card-compact w-80 shadow-xl' style={{backgroundColor:cardBgColor ,color:textColor  }}>
             <figure><img className='w-80' src={picture}  alt="logo" /></figure>
             <div className="card-body mx-2 my-5">
@@ -11,6 +15,9 @@ const HomeElement = ({value}) => {
             </div>
             </div>
         </div>
+        </button>
+        </Link>
+       
     );
 };
 
