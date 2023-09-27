@@ -56,7 +56,8 @@ const Statistics = () => {
 
   
   return(
-    <div className="max-w-7xl mx-auto h-[300px] border-2 border-red-500">
+    <div className="max-w-7xl mx-auto h-[300px] ">
+     
       {/* <h1>Total remaining:{remainingDonation}</h1> */}
       <ResponsiveContainer width="100%" height="100%">
         <PieChart width={400} height={400}>
@@ -75,7 +76,25 @@ const Statistics = () => {
             ))}
           </Pie>
         </PieChart>
+       
   </ResponsiveContainer>
+  <div className="flex flex-row text-center  mx-[450px] ">
+     <div className="flex flex-row">
+        <h1>
+          Total donation
+        </h1>
+        <div className="bg-green-500 w-16 h-3 my-2 mx-2 rounded-sm"></div>
+        </div>
+
+      <div className="flex flex-row">
+        <h1>
+          Your donation
+        </h1>
+        <div className="bg-red-500 w-16 h-3 my-2 mx-2 rounded-sm"></div>
+      </div>
+     
+        </div>
+  
     </div>
   )
 }
