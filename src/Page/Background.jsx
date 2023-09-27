@@ -1,7 +1,7 @@
 
 const Background = () => {
     const Img={
-        backgroundImage: 'url("./public/images/slideshowImage-489.jpg")',
+        backgroundImage: 'url("/images/slideshowImage-489.jpg")',
         opacity:.10,
         height:800,
         marginTop:-450,
