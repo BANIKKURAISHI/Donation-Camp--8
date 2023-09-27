@@ -8,7 +8,7 @@
       "cardBgColor":"#A2BDF8",
       "textColor":"#5081EA",
       "buttonBgColor":"#749BEF",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "description":"Child health is a state of physical, mental, intellectual, social and emotional well-being and not merely the absence of disease or infirmity. Healthy children live in families, environments, and communities that provide them with the opportunity to reach their fullest developmental potential.There are many definitions of child health. First Things First (FTF) is a broad public policy initiative; as such, the definition of child health used by FTF should reflect broad societal goals of health. World Health Organization. Because of this, we recommend that definition used by FTF be based upon the definition of child health ",
       "price":"$290.00"
     },
     {  
@@ -20,8 +20,8 @@
       "cardBgColor": "#EEACAE",
       "textColor":"#D56A6D",
       "buttonBgColor":"#E49497",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"The largest issue for the education system in Bangladesh is lack of quality. Overcrowding and under-qualified instructors have led to high dropout rates at the primary and secondary levels. In fact, while primary enrollment may be at 98%, it drops substantially to 22% at the higher secondary level. This is especially evident in rural communities where various social and economic factors can prevent safe access to education – things like natural disasters, child labor, family poverty, disability, gender abuse, child marriage, and poor sanitation.Currently, the government’s main goals are to expand learning opportunities at earlier ages.",
+      "price":"$230.00"
     },
     { 
       "id":3,
@@ -32,8 +32,8 @@
       "cardBgColor": "#C8F5A5",
       "textColor": "#79C23F",
       "buttonBgColor": "#85C652",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"Fashion designers work in a variety of different ways when designing their pieces and accessories such as rings, bracelets, necklaces and earrings. Due to the time required to put a garment out in market, designers must anticipate changes to consumer desires. Fashion designers are responsible for creating looks for individual garments, involving shape, color, fabric, trimming, and more.[2]Fashion designers attempt to design clothes that are functional as well as aesthetically pleasing. They consider who is likely to wear a garment and the situations in which it will be worn, and they work within a wide range of materials, colors, patterns, and styles. Though most clothing worn for everyday wear falls within a narrow range of conventional styles, .Some clothes are made specifically for an individual, as in the case of haute couture or bespoke tailoring. Today, most clothing is designed for the mass market, especially casual and everyday wear, which are commonly known as ready to wear or fast fashion.",
+      "price":"$240.00"
     },
     {
       "id":4,
@@ -44,8 +44,8 @@
       "cardBgColor":"#F7C2B2",
       "textColor":"#F87147",
       "buttonBgColor": "#FA8535",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"Potluck Café Society is dedicated to promoting a healthier and happier economy through our innovative approach to employment and food access. We are fully committed to providing job opportunities to people who face barriers to traditional employment, while also making it easier for members of the Downtown East side to access nutritional, warm, and home-cooked meals through various community meal programs. Potluck Café Society believes that a thriving economy is one where everyone has the chance to participate and contribute, regardless of their circumstances. ",
+      "price": "$300.00"
     },
     { "id":5,
       "picture":"https://i.ibb.co/vJrCGLw/D200-0913-105.jpg" ,
@@ -55,22 +55,22 @@
       "cardBgColor":"#F7C2B2",
       "textColor":"#F87147",
       "buttonBgColor":"#FA8535",
-      "description":"water, a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances. Indeed, the versatility of water as a solvent is essential to living organisms. Life is believed to have originated in the aqueous solutions of the world’s oceans, and living organisms depend on aqueous solutions. ",
+      "description":"Water is a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances. Indeed, the versatility of water as a solvent is essential to living organisms. Life is believed to have originated in the aqueous solutions of the world’s oceans, and living organisms depend on aqueous solutions. ",
       "price": "$100.00"
     },
     {
       "id":6,
-      "picture":"https://i.ibb.co/3c2JQbc/Fruits-and-Vegetables.jpg",
+      "picture":"https://i.ibb.co/tK9WyvG/Article-mage.jpg",
       "title":"Make a Equal World For all",
       "category":"Clothing",
       "categoryBgColor":"#D2F0BA",
       "cardBgColor":"#C8F5A5",
       "textColor":"#79C23F",
       "buttonBgColor":"#85C652",
-      "description":"",
-      "price":"$290.00"
+      "description":"In its most general sense, the term world refers to the totality of entities, to the whole of reality or to everything that is.[1] The nature of the world has been conceptualized differently in different fields. Some conceptions see the world as unique while others talk of a plurality of worlds. Some treat the world as one simple object while others analyze the world as a complex made up of many parts. In scientific cosmology the world or universe is commonly defined as he totality of all space and time; all that is, has been, and will be. Theories of modality, on the other hand, talk of possible worlds as complete and consistent ways how things could have been.", 
+      "price":"$320.00"
     },
-    {
+      {
       "id":7,
       "picture":"https://i.ibb.co/Mk35J8n/trade-school.jpg",
       "title":"For An Enlightened World",
@@ -91,7 +91,7 @@
       "cardBgColor":"#A2BDF8",
       "textColor":"#5081EA",
       "buttonBgColor":"#749BEF",
-      "description":"Treatment has to do with how someone or something is managed or handled. Hopefully you get the royal treatment when you choose the deluxe pedicure treatment!You know how some people treat you with respect but others don't treat you so nicely? You can refer to how people act toward you as treatment. If a restaurant is known for rude treatment of customers, people will stop going there. Doctors also use the word treatment when they discuss a particular medical course of action — such as chemotherapy as a treatment for cancer. The root word is the Latin tractare, which originally meant drag about, but came to mean manage, handle, or deal with.",
+      "description":"Treatment has to do with how someone or something is managed or handled. Hopefully you get the royal treatment when you choose the deluxe pedicure treatment!You know how some people treat you with respect but others don't treat you so nicely? You can refer to how people act toward you as treatment. If a restaurant is known for rude treatment of customers, people will stop going there. Doctors also use the word treatment when they discuss a particular medical course of action — such as chemotherapy as a treatment for cancer. The root word is the Latin tract are, which originally meant drag about, but came to mean manage, handle, or deal with.",
       "price": "$200.00"
     },
     {

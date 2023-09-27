@@ -15,7 +15,7 @@ const Donation2 = () => {
 
     const buttonHandler=()=>{
       saveDonate(newId)
-      toast("Wow so easy!")
+      toast("Your Donation is successfully complect !")
 
 
     }
@@ -23,14 +23,14 @@ const Donation2 = () => {
 
     return (
       <div>
-              <div className="relative max-w-6xl mx-auto ">
+              <div className="relative card max-w-6xl mx-auto ">
              
-              <img src={picture} className="w-full h-[450px]"   alt="Shoes" />
-              <div className="absolute w-full p-6 bg-black opacity-50 -my-24" >
+              <img src={picture} className="w-full h-[500px]"   alt="Shoes" />
+              <div className="absolute w-full p-10 bg-black opacity-50  my-[370px]" >
               <button onClick={buttonHandler} className="btn mx-8 opacity-150" style={{backgroundColor:buttonBgColor}}>Donate {price}</button>
               </div>
               </div>
-              <div className="card-body  max-w-6xl mx-[350px] -my-8 justify-start">
+              <div className="card-body absolute max-w-6xl justify-start lg:mx-[350px]  ">
               <h1 className="text-4xl font-semibold my-4"> {title}</h1>
               <h2 className="text-md font-medium">{description}</h2>
               </div>

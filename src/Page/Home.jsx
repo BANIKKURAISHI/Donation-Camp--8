@@ -12,10 +12,10 @@ const Home = () => {
 
 
  return (
-        <div >
-           <Banner></Banner>
+        <div className="max-w-7xl mx-10 md:mx-60 my-20 gap-auto   lg:mx-auto " >
+              <Banner></Banner>
           
-            <div className="grid mx-auto  md:grid-cols-2  lg:grid-cols-4 gap-20   max-w-7xl my-20">
+            <div className="grid grid-cols-1 -mx-4 md:grid-cols-3 gap-20 lg:grid-cols-4  -my-[400px]   ">
                 {
                     data.map((home)=><HomeElement key={home.id} value={home}></HomeElement>)
                 }

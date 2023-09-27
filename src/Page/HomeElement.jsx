@@ -10,7 +10,7 @@ const HomeElement = ({value}) => {
             <button>
             
              <div>
-            <div className='card card-compact w-80 shadow-xl' style={{backgroundColor:cardBgColor ,color:textColor  }}>
+            <div className='card card-compact  w-80 h-[350px] shadow-xl' style={{backgroundColor:cardBgColor ,color:textColor  }}>
             <figure style={{width:320, height:240 ,}} ><img className='w-80'  src={picture}  alt="logo" /></figure>
             <div className="card-body flex mx-2 my-5 ">
             <h2 className='p-3 rounded-lg w-24 flex-grow' style={{backgroundColor:categoryBgColor}}>{category}</h2>

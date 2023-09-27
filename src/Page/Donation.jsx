@@ -27,13 +27,14 @@ const Donation = () => {
    },[donates])
  
 
+   
     return (
         <div className="max-w-7xl mx-auto ">
             
-            <ul className="  grid  lg:grid-cols-2 gap-10">
+            <ul className="  grid mx-8 md:grid-cols-1  lg:grid-cols-2 gap-10">
                 {
                     values.slice(0,valueLength).map(value=><li key={value.id}>
-                         <div className=" card w-4/5 shadow-xl rounded-xl lg:card-side " style={{backgroundColor:value.cardBgColor,color:value.textColor}}>
+                         <div className="card-side card w-4/5 shadow-xl rounded-xl  " style={{backgroundColor:value.cardBgColor,color:value.textColor}}>
                             <img src={value.picture} className="rounded-s-xl w-2/5 " alt=""  />
                             <div className="mx-6 my-5">
                                 <h1 className="text-xl w-1/3 rounded-md text-center p-2" style={{backgroundColor:value.categoryBgColor}}>{value.category}</h1>
@@ -47,7 +48,9 @@ const Donation = () => {
                  }
           
             </ul>
-            <button onClick={()=>setValueLength()} className="text-2xl bg-green-600 my-20 mx-[57vh] p-4 text-white font-semibold rounded-xl ">See all</button>
+            <div className={valueLength > values.length  && 'hidden'}>
+            <button onClick={()=>setValueLength(values.length)} className="text-2xl bg-green-600 mx-[6vh] md:mx-[6vh]  lg:mx-[57vh]  my-20 p-4 text-white font-semibold rounded-xl ">See all</button>
+            </div>
           </div>
           
         
@@ -57,11 +60,3 @@ const Donation = () => {
 export default Donation;
 
 
-{/* <div className="card w-2/5 h-80  lg:card-side bg-base-100 shadow-xl" style={{backgroundColor:cardBgColor,color:textColor}}>
-                            <figure><img src={value.picture}alt="Album" className="w-96"/></figure>              <div className="card-body">
-                            <h2 className="card-title" style={{backgroundColor:categoryBgColor}}>{category}</h2>             <h1>{title}</h1>             <h2>{price}</h2>
-                            <div className="card-actions justify-start">
-                            <button className="btn" style={{backgroundColor:buttonBgColor}}>View Details</button>
-                             </div>
-                             </div>
-                             </div>  */}
