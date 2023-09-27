@@ -26,24 +26,24 @@ const myCreateRoute=createBrowserRouter([
       {
        path:'/',
        element:<Home></Home>,
-       loader:()=>fetch('/Data.json/'),
+       loader:()=>fetch('/Data.json'),
       },
 
       {
         path:'//donation/:id',
         element:<Donation2></Donation2>,
-        loader:()=>fetch('/Data.json/')
+        loader:()=>fetch('/Data.json')
       },
    
       {
         path:'/donation/',
         element:<Donation></Donation>,
-        loader:()=>fetch('../Data.json/')
+        loader:()=>fetch('/Data.json')
       },
       {
         path:'/statistics/',
         element:<Statistics></Statistics>,
-        loader:()=>fetch('../Data.json/')
+        loader:()=>fetch('/Data.json')
       }
     
     ]
