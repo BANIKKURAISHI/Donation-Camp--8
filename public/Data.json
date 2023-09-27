@@ -2,7 +2,7 @@
     {
       "id":1,
       "picture":"https://i.ibb.co/z63SxJG/Health.png",
-      "title":"Clean water for children",
+      "title":"Better Health for children",
       "category":"Health",
       "categoryBgColor":"#B7CBF8",
       "cardBgColor":"#A2BDF8",
@@ -48,99 +48,99 @@
       "price":"$290.00"
     },
     { "id":5,
-      "picture":"https://i.ibb.co/p3TmBfb/Food.png" ,
-      "title":"Better Food for Everyone",
+      "picture":"https://i.ibb.co/vJrCGLw/D200-0913-105.jpg" ,
+      "title":"Clean Water for Everyone And Save Life",
       "category":"Food",
       "categoryBgColor": "#F1CEC3",
       "cardBgColor":"#F7C2B2",
       "textColor":"#F87147",
       "buttonBgColor":"#FA8535",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price": "$290.00"
+      "description":"water, a substance composed of the chemical elements hydrogen and oxygen and existing in gaseous, liquid, and solid states. It is one of the most plentiful and essential of compounds. A tasteless and odourless liquid at room temperature, it has the important ability to dissolve many other substances. Indeed, the versatility of water as a solvent is essential to living organisms. Life is believed to have originated in the aqueous solutions of the world’s oceans, and living organisms depend on aqueous solutions. ",
+      "price": "$100.00"
     },
     {
       "id":6,
-      "picture":"https://i.ibb.co/FWNrXFc/Clothing.png",
-      "title":"Used Clothing Drive",
+      "picture":"https://i.ibb.co/3c2JQbc/Fruits-and-Vegetables.jpg",
+      "title":"Make a Equal World For all",
       "category":"Clothing",
       "categoryBgColor":"#D2F0BA",
       "cardBgColor":"#C8F5A5",
       "textColor":"#79C23F",
       "buttonBgColor":"#85C652",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
+      "description":"",
       "price":"$290.00"
     },
     {
       "id":7,
-      "picture":"https://i.ibb.co/60vpN18/Education.png",
-      "title":"Good education",
+      "picture":"https://i.ibb.co/Mk35J8n/trade-school.jpg",
+      "title":"For An Enlightened World",
       "category":"Education",
       "categoryBgColor":"#F3C1C2",
       "cardBgColor":"#EEACAE",
       "textColor":"#D56A6D",
       "buttonBgColor":"#E49497",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"A college is an educational institution or a constituent part of one. A college may be a degree-awarding tertiary educational institution, a part of a collegiate or federal university, an institution offering vocational education, a further education institution, or a secondary school.he word college is from the Latin verb lego, legere, legi, lectum, to collect, gather together, pick, plus the preposition cum, with thus meaning selected together. Thus colleagues are literally persons who have been selected to work togetherPrivate schools that. ",
+      "price":"$350.00"
     },
     {
       "id":8,
-      "picture":"https://i.ibb.co/z63SxJG/Health.png",
-      "title":"Clean water for children",
+      "picture":"https://i.ibb.co/NjNbH7k/Treatment.jpg",
+      "title":"Best Treatment for Everyone",
       "category":"Health",
       "categoryBgColor":"#B7CBF8",
       "cardBgColor":"#A2BDF8",
       "textColor":"#5081EA",
       "buttonBgColor":"#749BEF",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price": "$290.00"
+      "description":"Treatment has to do with how someone or something is managed or handled. Hopefully you get the royal treatment when you choose the deluxe pedicure treatment!You know how some people treat you with respect but others don't treat you so nicely? You can refer to how people act toward you as treatment. If a restaurant is known for rude treatment of customers, people will stop going there. Doctors also use the word treatment when they discuss a particular medical course of action — such as chemotherapy as a treatment for cancer. The root word is the Latin tractare, which originally meant drag about, but came to mean manage, handle, or deal with.",
+      "price": "$200.00"
     },
     {
       "id":9,
-      "picture":"https://i.ibb.co/z63SxJG/Health.png" ,
-      "title":"Clean water for children",
+      "picture":"https://i.ibb.co/4RmgpQP/Medicine.jpg" ,
+      "title":"Good Medicine for People",
       "category":"Health",
       "categoryBgColor":"#B7CBF8",
       "cardBgColor":"#A2BDF8",
       "textColor":"#5081EA",
       "buttonBgColor":"#749BEF",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"Medicine is the science and practice of caring for a patient, managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health. Medicine encompasses a variety of health care practices evolved to maintain and restore health by the prevention and treatment of illness. Contemporary medicine applies biomedical sciences, biomedical research, genetics, and medical technology to diagnose, treat, and prevent injury and disease, typically through pharmaceuticals or surgery, but also through therapies as diverse as psychotherapy,external splints and traction, medical devices, biologics, and ionizing radiation, amongst others.",
+      "price":"$150.00"
     },
     {
       "id":10,
-      "picture":"https://i.ibb.co/60vpN18/Education.png",
-      "title":"Good education",
+      "picture":"https://i.ibb.co/LYNBLGc/Jan-Pre-K-Monthly-Topic-feat.jpg",
+      "title":"Good Friend In The World",
       "category":"Education",
       "categoryBgColor":"#F3C1C2",
       "cardBgColor":"#EEACAE",
       "textColor":"#D56A6D",
       "buttonBgColor":"#E49497",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"A book is a medium for recording information in the form of writing or images, typically composed of many pages (made of papyrus, parchment, vellum, or paper) bound together and protected by a cover.[1] It can also be a handwritten or printed work of fiction or nonfiction, usually on sheets of paper fastened or bound together within covers. The technical term for this physical arrangement is codex (plural, codices). In the history of hand-held physical supports for extended written compositions or records, the codex replaces its predecessor, the scroll. A single sheet in a codex is a leaf and each side of a leaf is a page.As an intellectual object, a book is prototypically a composition of such great length that it takes a considerable investment of time to compose and still considered as an investment of time to read. In a restricted sense, a book is a self-sufficient section or part of a longer composition, a usage reflecting that, in antiquity, long works had to be written on several scrolls and each scroll had to be identified by the book it contained. Each part of Aristotle's Physics is called a book. In an unrestricted sense, a book is the compositional whole of which such as all knowledge here.",
+      "price":"$160.00"
     },
     {
       "id":11,
-      "picture":"https://i.ibb.co/FWNrXFc/Clothing.png",
-      "title":"Used Clothing Drive",
+      "picture":"https://i.ibb.co/16nDNDL/worker.jpg",
+      "title":"Development For Country",
       "category":"Clothing",
       "categoryBgColor":"#D2F0BA",
       "cardBgColor":"#C8F5A5",
       "textColor":"#79C23F",
       "buttonBgColor":"#85C652",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"Women's work is often assumed to be solely the realm of women, and it is associated with specific stereotypical jobs that have been associated with the feminine sex throughout history. It is most commonly used in reference to the unpaid labor that a mother or wife performs in the home and family.Women's work is generally unpaid or paid less than men's work and is not as highly valued as men's work.Much of women's work is not included in official statistics on labour, making much of the work that women typically do virtually invisible.[3] For example, throughout much of the 20th century, the women working on a family farm, no matter how much work they did, would be counted in the US census as being unemployed, whereas the men doing the same or even less work were counted as being employed as farmers.There are several types of work that are considered women's work; they involve child care, housework, and occupations such as nursing that have been dominated by women in recent decades.The term women's work may indicate a role with children as defined by nature in that only women are biologically capable of performing them: pregnancy, childbirth, and breastfeeding.We should show respect for a woman  ",
+      "price":"$220.00"
     },
     {
       "id":12,
-      "picture":"https://i.ibb.co/p3TmBfb/Food.png",
-      "title": "Better Food for Everyone",
+      "picture":"https://i.ibb.co/XZ4S4Vv/vegetables-high-reso.jpg",
+      "title": "Better vegetable For Everyone",
       "category":"Food",
       "categoryBgColor":"#F1CEC3",
       "cardBgColor":"#EEACAE",
       "textColor":"#F87147",
       "buttonBgColor":"#FA8535",
-      "description":"There are many things that can be done to ensure that all people have access to a good education. Governments can invest in public schools, provide financial assistance to students, and make sure that all schools have qualified teachers and resources. Families can support their children's education by creating a learning environment at home and helping them with their schoolwork. Teachers can create a positive and supportive learning environment for their students and challenge them to reach their full potential.",
-      "price":"$290.00"
+      "description":"Vegetable in the broadest sense, any kind of plant life or plant product, namely “vegetable matter”; in common, narrow usage, the term vegetable usually refers to the fresh edible portions of certain herbaceous plants—roots, stems, leaves, flowers, fruit, or seeds. These plant parts are either eaten fresh or prepared in a number of ways, usually as a savory, rather than sweet, dish. A brief treatment of vegetables and vegetable farming follows. For in-depth treatment of vegetable cultivation, see vegetable farming. For treatment of the nutrient composition and processing of vegetables.",
+      "price":"$80.00"
     }
   ]
   

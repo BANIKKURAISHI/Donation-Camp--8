@@ -1,21 +1,19 @@
-import { useLoaderData } from "react-router-dom";
+import { useLoaderData,} from "react-router-dom";
 import HomeElement from "./HomeElement";
 import Banner from "./Banner";
 
 
 
+
+
 const Home = () => {
    const data=useLoaderData()
-   
 
-   
- 
-   
-   
-  // console.log(data)
-    return (
+
+
+ return (
         <div >
-           <Banner ></Banner>
+           <Banner></Banner>
           
             <div className="grid mx-auto  md:grid-cols-2  lg:grid-cols-4 gap-20   max-w-7xl my-20">
                 {
